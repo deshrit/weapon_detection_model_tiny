@@ -15,7 +15,8 @@ Sword
 3. train yolov4-tiny on custom dataset
 4. test and evaluate
 
-## links
+## dataset
 [dataset](https://drive.google.com/file/d/1uU178bGpO3Hs_tC7vpNJstVBBlp5hp_x/view?usp=share_link)
 
+## trained model
 [model](https://drive.google.com/drive/folders/198AkX1JUFllKMtDLbOfhqt83fIG6vFcT?usp=share_link)
